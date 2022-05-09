@@ -6,3 +6,13 @@ body {
 a {
   color: #00b7ff;
 }
+
+h2 {
+  padding: 5px;
+  font-size: 30px;
+  text-align:justify;
+}
+
+#center {
+  text-align: justify;
+}
